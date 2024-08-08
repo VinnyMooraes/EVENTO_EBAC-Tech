@@ -1,0 +1,7 @@
+arquivo sharp.config.json criado manualmente para configurar a minificação de arquivos;
+
+necessário instalar o parcel, para minificar os arquivos;
+--> npm install --save-dev parcel.
+
+o parcel cria uma pasta "dist" e ".parcel-cache";
+
