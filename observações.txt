@@ -5,3 +5,6 @@ necessário instalar o parcel, para minificar os arquivos;
 
 o parcel cria uma pasta "dist" e ".parcel-cache";
 
+adicionar o "build": "parcel build src/index.html" no package.json;
+
+nesse projeto, por conta da sua estrutura com o basico de js iremos remover o "main": "index.js" do package.json;
